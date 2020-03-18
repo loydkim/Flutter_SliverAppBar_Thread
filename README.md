@@ -2,9 +2,17 @@
 
 A new Flutter application.
 
+
+
+
+![Image description](https://github.com/huextrat/TheGorgeousLogin/blob/master/github/login.gif?raw=true)
+
 ![Image description](https://github.com/loydkim/Flutter_SliverAppBar_Thread/blob/master/main1.png?raw=true)
 
 ![Image description](https://github.com/loydkim/Flutter_Simple_Dialog/blob/master/main.png?raw=true)
+
+
+
 
  Flutter provides full native performance on both iOS and Android. I made a SliverAppBar with thread. iOS and android are working good 👍🏻
 
