@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![alt-text-1](https://github.com/loydkim/Flutter_SliverAppBar_Thread/blob/master/main1.png"title-1") ![alt-text-2](https://github.com/loydkim/Flutter_Simple_Dialog/blob/master/main.png "title-2")
+![alt-text-1](https://github.com/loydkim/Flutter_SliverAppBar_Thread/blob/master/main1.png "title-1") ![alt-text-2](https://github.com/loydkim/Flutter_Simple_Dialog/blob/master/main.png "title-2")
 
 ![Image description](https://github.com/loydkim/Flutter_SliverAppBar_Thread/blob/master/main1.png?raw=true)
 
